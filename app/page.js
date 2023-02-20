@@ -156,7 +156,7 @@ export default function mainPage() {
             materials to ensure that your repairs are durable and long-lasting.
           </p>
           <ul role="list">
-            <li>Serves Las Vegas and Henderson area</li>
+            <li>Servicing the Las Vegas and Henderson area</li>
             <li>Uses high-quality materials and tools</li>
             <li>Competitive pricing</li>
             <li>Experienced team of experts</li>
