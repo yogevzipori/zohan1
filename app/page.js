@@ -119,14 +119,28 @@ export default function mainPage() {
               Professional Drywall Repair Services
             </span>
             <span className="mt-2 block text-center text-3xl font-bold leading-8 tracking-tight text-gray-900 sm:text-4xl">
-              Welcome to Zohan Handyman Services - Servicing Las Vegas and Henderson.
+              Welcome to Zohan Handyman Services - Servicing Las Vegas and
+              Henderson.
             </span>
           </h1>
-          <p className="mt-8 text-xl leading-8 text-gray-500">
-            We understand that drywall damage can be an eyesore, which is why we
-            provide high-quality, affordable, and reliable drywall repair
-            services to restore your walls and ceilings to their original
-            condition.
+          <p className="mt-8 text-lg leading-8 text-slate-700 text-center">
+            <p>
+              Are you tired of dealing with unreliable handymen who overcharge
+              for subpar work? At Zohan Handyman Services, our team of
+              professional handymen is here to help. No more unexpected costs.
+              We provide a clear quote upfront, so you know exactly what you'll
+              be paying for before we start the job. Say goodbye to home repair
+              worries. Contact us today to schedule your next project with
+              confidence.<br/>
+            </p>
+            <p>
+              One of the biggest headaches when it comes to home repairs is the
+              fear of hidden costs. You don't want to end up with a bill that's
+              higher than what you expected. That's why we keep it real and
+              straightforward. We give you a clear quote upfront and make sure
+              you know exactly what you're paying for before we start the job.
+            </p>
+            
           </p>
         </div>
 
@@ -139,9 +153,8 @@ export default function mainPage() {
               width={1110}
               height={773}
             />
-         
           </div>
-            <CallNow />
+          <CallNow />
         </figure>
 
         <div className="prose prose-lg prose-indigo mx-auto mt-6 text-gray-500">
@@ -151,9 +164,6 @@ export default function mainPage() {
               patching holes, fixing cracks, repairing water damage, and much
               more.
             </strong>{" "}
-            We use the latest tools and techniques to ensure that your repairs
-            are efficient and effective, and we use only the highest quality
-            materials to ensure that your repairs are durable and long-lasting.
           </p>
           <ul role="list">
             <li>Servicing the Las Vegas and Henderson area</li>
@@ -163,12 +173,10 @@ export default function mainPage() {
           </ul>
 
           <p>
-            At Zohan Handyman Services, we know that every home is unique, which
-            is why we work closely with our clients to provide tailored
-            solutions to meet their specific needs and preferences. We also
-            understand that drywall damage can be frustrating and inconvenient,
-            which is why we offer flexible scheduling to work around your busy
-            schedule.
+          If you're looking for a handyman who's got your back, look no
+            further than Zohan Handyman Services. Contact us today to schedule
+            your next home repair and say goodbye to all your handyman
+            headaches.
           </p>
           <h2>
             We use only the highest quality materials and tools to ensure that
@@ -182,19 +190,22 @@ export default function mainPage() {
           </p>
           <blockquote>
             <p>
-            Zohan Handyman Services has a team of experts who are dedicated to providing high-quality, professional drywall repair services. With years of experience and expertise, they have the knowledge and skills to handle any type of drywall damage, big or small.
+              Zohan Handyman Services has a team of experts who are dedicated to
+              providing high-quality, professional drywall repair services. With
+              years of experience and expertise, they have the knowledge and
+              skills to handle any type of drywall damage, big or small.
             </p>
           </blockquote>
           <p>
             We offer a wide range of services to meet all your construction,
-            remodeling, and handyman needs, including kitchen and bathroom  
+            remodeling, and handyman needs, including kitchen and bathroom
             remodels, furniture assembly and installation, appliance
             installation and repair, TV mounting, light fixture installation,
             flooring improvements, tile replacement, door installation and
             repair, picture hanging, home security installation, and more.
           </p>
           <figure>
-          <CallNow />
+            <CallNow />
 
             <Image
               className="w-full rounded-lg"
@@ -203,9 +214,7 @@ export default function mainPage() {
               width={1110}
               height={773}
             />
-            <figcaption>
-            We offer a wide range of services.{" "}
-            </figcaption>
+            <figcaption>We offer a wide range of services. </figcaption>
           </figure>
           <h2>Servicing Las Vegas and Henderson area</h2>
           <p>
@@ -214,7 +223,6 @@ export default function mainPage() {
             We never compromise on quality and always strive for 100% customer
             satisfaction.
             <CallNow />
-
           </p>
           <p>
             At Zohan Handyman Services we're committed to providing exceptional
@@ -233,13 +241,26 @@ export default function mainPage() {
               height={773}
             />
             <figcaption>
-              Don't let drywall damage distract you from the beauty of your home.
-              Contact Zohan Handyman Services today to schedule a consultation
-              and learn more about how we can help with all your drywall repair
-              needs or any other repairs needed. We are servicing the Las Vegas and Henderson area. Call us today!
+              At Zohan Handyman Services, we offer a wide range of Handyman
+              Services to meet all your home repair needs. Whether you're
+              looking to find a handyman for small repairs like fixing a leaky
+              faucet or installing a new ceiling fan, or you need a drywall
+              handyman for more complex drywall services like repair and
+              installation, our team of handyman professionals has got you
+              covered. With our expertise in handyman drywall repair and years
+              of experience in handyman repair, you can trust us to handle any
+              job with precision and care. And, if you're in Las Vegas, you're
+              in luck! Our team of handyman professionals is based in Las Vegas,
+              so you can count on us for fast and reliable service. Contact us
+              today to schedule your next handyman repair and experience the
+              peace of mind that comes with hiring the best. Don't let drywall
+              damage or any other issue distract you from the beauty of your
+              home. Contact Zohan Handyman Services today to schedule a
+              consultation and learn more about how we can help with all your
+              drywall repair needs or any other repairs needed. We are servicing
+              the Las Vegas and Henderson area. Call us today!
             </figcaption>
             <CallNow />
-
           </figure>
         </div>
       </div>
