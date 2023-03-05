@@ -127,7 +127,7 @@ export default function mainPage() {
             <p>
               Are you tired of dealing with unreliable handymen who overcharge
               for subpar work? At Zohan Handyman Services, our team of
-              professional handymen is here to help. No more unexpected costs.
+              professional handyman is here to help. No more unexpected costs.
               We provide a clear quote upfront, so you know exactly what you'll
               be paying for before we start the job. Say goodbye to home repair
               worries. Contact us today to schedule your next project with
