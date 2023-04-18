@@ -63,9 +63,7 @@ export default function About() {
                 your home repair needs in Las Vegas and Henderson. Our team of
                 skilled professionals is equipped to handle everything from
                 minor repairs to more complex installations, making sure your
-                home remains in top shape. In this blog post, we'll delve deeper
-                into our services and the benefits of choosing Zohan Handyman
-                for all your home maintenance needs.
+                home remains in top shape. 
               </p>
             </div>
             <div className="prose prose-indigo mx-auto mt-5 text-slate-600 lg:col-start-1 lg:row-start-1 lg:max-w-none">
