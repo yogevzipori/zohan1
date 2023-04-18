@@ -1,6 +1,5 @@
 import CallNow from "../callnow";
 
-
 export default function About() {
   return (
     <div className="overflow-hidden bg-white">
@@ -67,7 +66,6 @@ export default function About() {
                 home remains in top shape. In this blog post, we'll delve deeper
                 into our services and the benefits of choosing Zohan Handyman
                 for all your home maintenance needs.
-                <CallNow />
               </p>
             </div>
             <div className="prose prose-indigo mx-auto mt-5 text-slate-600 lg:col-start-1 lg:row-start-1 lg:max-w-none">
@@ -107,25 +105,20 @@ export default function About() {
                 home repairs are executed flawlessly. Say goodbye to the stress
                 and frustration that come with attempting DIY repairs or dealing
                 with subpar contractors. With Zohan Handyman Services, your
-                satisfaction is our priority.
+                satisfaction is our priority. Don't let pesky home repair
+                problems like drywall damage or leaky faucets spoil the comfort
+                and beauty of your personal haven. Zohan Handyman Services is
+                committed to delivering exceptional service, ensuring your home
+                stays in tip-top shape. Proudly serving Las Vegas and Henderson,
+                our expert team is prepared to handle any repair or installation
+                challenge with meticulous attention to detail. Reach out to us
+                today for a consultation and uncover how we can cater to all
+                your home repair needs. Choose Zohan Handyman Services and
+                embrace the tranquility that comes with entrusting your home to
+                the best in the business.
+                <CallNow/>
               </p>
             </div>
-            <p>
-              <div className="mx-auto text-xs my-32  py-28 px-12 sm:py-28 lg:px-12 lg:py-28">
-                Don't let drywall damage, leaky faucets, or any other home
-                repair issues mar the beauty of your sanctuary. Zohan Handyman
-                Services is here to provide top-quality service, ensuring your
-                home remains in perfect condition. Servicing the Las Vegas and
-                Henderson areas, our team of professionals is ready to tackle
-                any repair or installation job with precision and care. Contact
-                us today to schedule a consultation and discover how we can help
-                with all your home repair needs. Call Zohan Handyman Services,
-                and experience the peace of mind that comes with hiring the
-                best.
-                <></>
-                <CallNow />
-              </div>
-            </p>
           </div>
         </div>
       </div>
