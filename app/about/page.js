@@ -1,7 +1,5 @@
-import CallNow from "./callnow";
-import Banner from "./banner";
-import Link from "next/link";
-import Image from "next/image";
+import CallNow from "../callnow";
+
 
 export default function About() {
   return (
