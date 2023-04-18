@@ -251,7 +251,7 @@ export default function mainPage() {
               of experience in handyman repair, you can trust us to handle any
               job with precision and care. And, if you're in Las Vegas, you're
               in luck! Our team of handyman professionals is based in Las Vegas,
-              so you can count on us for fast and reliable service. Contact us
+              so you can count on us for fast and reliable service. <br/> Contact us
               today to schedule your next handyman repair and experience the
               peace of mind that comes with hiring the best. Don't let drywall
               damage or any other issue distract you from the beauty of your
